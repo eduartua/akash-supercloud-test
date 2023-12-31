@@ -1,4 +1,4 @@
-# akash-supercloud
+#This is the awesome Pacman game deployed using akash-supercloud
 
 Akash is the leading provider of decentralized cloud services. It is easy to use, cheaper and more robust traditional centralized cloud providers. Here are some example of deployments in this repository:
 
